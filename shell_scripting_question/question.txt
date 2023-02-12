@@ -1,0 +1,5 @@
+----------------------------------------------SHELL SCRIPTING----------------------------------------------
+1-Write a shell script which write "Hello world" for every 10 seconds into a temp file (hello.txt) //Please send sh.
+2-Run sh as a daemon process. //Please send command.
+3-Write another shell script to check the count of records in hello.txt, if total count is equal 10 then kill the first sh, delete the temp file and run first sh again.//Please send sh.
+4-Second sh should be proper for scheduled in crontab. 
